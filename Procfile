@@ -1,1 +1,1 @@
-worker: python3 DTbot.py
+worker: python3 SDbot.py
